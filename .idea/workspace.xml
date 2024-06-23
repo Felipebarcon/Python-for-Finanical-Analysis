@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0829a51a-660d-4d24-bf1d-82a4cedc23af" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Importing and Oragizing Data-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Importing and Oragizing Data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Importing and Oragizing Data.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +69,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -120,6 +121,7 @@
       <workItem from="1719147521353" duration="291000" />
       <workItem from="1719147934563" duration="1728000" />
       <workItem from="1719149965288" duration="6141000" />
+      <workItem from="1719161366329" duration="852000" />
     </task>
     <servers />
   </component>
